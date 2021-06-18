@@ -2,7 +2,7 @@
 This is a warehouse of projects from frontend mentor.
 
 ## Stats Preview Info Card
-This project is built in HTML and CSS. The card is a simple ui component that gives statistics information. It has a information section and a image. The image has a tint accent that matches the tint of the card theme. After working up the concept and making it responsive, I used a aws s3 bucket to make it live for inspection. Live preview [here](http://stat-card.s3-website.us-east-2.amazonaws.com)
+This project is built in HTML and CSS. The card is a simple ui component that gives statistics information. It has a information section and a image. The image has a tint accent that matches the tint of the card theme. After working up the concept and making it responsive, I used a aws s3 bucket to make it live for inspection. Live preview [here](http://stat-card.s3-website.us-east-2.amazonaws.com). I first laid out the html. I then created the css. After getting the css responsive I run it through the [wc3 css validator](https://jigsaw.w3.org/css-validator/#validate_by_uri). Then I used the [autoprefixer](https://autoprefixer.github.io) to ensure my css works on other browsers.
 
 <img src="images/ui-stats-card.png">
 

@@ -4,7 +4,7 @@ This is a warehouse of projects from frontend mentor.
 ## Stats Preview Info Card
 This project is built in HTML and CSS. The card is a simple ui component that gives statistics information. It has a information section and a image. The image has a tint accent that matches the tint of the card theme.
 
-<img src="images\ui-stats-card.png>
+<img src="images/ui-stats-card.png">
 
 ### Layout
 The design was created to the following three widths:
